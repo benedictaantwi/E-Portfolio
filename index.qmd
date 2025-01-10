@@ -1,6 +1,6 @@
 ---
 title: "Your E-Portfolio"
-image: images/Dicta.PNG
+image: images/Dicta.png
 about:
   template: trestles
   image-width: 20em
