@@ -4,37 +4,53 @@ title: "Resume"
 
 # Education
 
--   List your education here. 
+-   MASTER'S: GEOMATICS FOR ENVIRONMENTAL MANAGEMENT Expected in 05/2025 University of British Columbia (UBC), Vancouver, BC
 
-# Publications
+    Courseworks: Remote Sensing, GIS, Geospatial Data Analysis, Landscape Ecology, Python, and R.
 
-*Peer-reviewed publications:*
+    Research focuses on SAR technology and mapping mangrove ecosystems in Madagascar
 
-- List any peer-reviewed publications here.
+-   BACHELOR OF SCIENCE: GEOMATIC ENGINEERING\
+    University of Mines And Technology (UMaT), Tarkwa, Ghana on 08/2023 Main coursework: Remote Sensing, GIS, Geodesy, Cadastral Survey, Survey Engineering, Hydrography Survey, Highway and Transportation Engineering, Mine Survey, Computer Applications in Survering Capstone Project: Developed MATLAB-based analysis of point velocities to enhance geospatial data accuracy
 
-*Reports:*
+# LEADERSHIP AND COMMUNITY INVOLVEMENT
 
-- List any non-peer reviewed materials you'd like to share here.
+Cohort Representative, Mastercard Foundation Scholars Program, University of British Columbia *(09/2024 – Present)*
+
+Lead and represent a diverse cohort of scholars, coordinating initiatives to promote academic success, leadership development, and community engagement.
+
+President, Geomatic Engineering Students Association (GESA), University of Mines and Technology *(2021 – 2022)*
+
+Directed organizational activities, managed internal and external communications, and organized professional development workshops for students.
+
+Member of Parliament, Geomatic Engineering Students Association, 5th Legislative Assembly, University of Mines and Technology *(2021-2022)*
+
+Advocated for student interests, reviewed organizational policies, and contributed to decision-making processes within the association.
+
+Member, Youth Mappers, OpenStreetMap, UMaT, Ghana
+
+Conducted spatial data collection, mobile mapping, and drone training sessions to enhance local mapping capacity and support community projects.
 
 # Conferences & Talks
 
 *Invited Talks*
 
-- If you've been invited to speak in a professional setting, list that here. 
+-   If you've been invited to speak in a professional setting, list that here.
 
 *Conference Presentations*
 
-- If the presentation was at a conference, list them here. 
+-   If the presentation was at a conference, list them here.
 
 # Awards & Honors
 
-- List any scholarships, bursaries, etc. 
-
+-   List any scholarships, bursaries, etc.
 
 # Teaching Assistantships
 
-- List any TA positions you may have held. 
+-   List any TA positions you may have held.
 
 # Institutional Service
 
-- Volunteering etc. 
+-   Volunteer, Group on Earth Observation (GEO) Week *(2022)*
+
+    Assisted in event coordination and logistics, contributing to the successful execution of GEO Week 2022..
