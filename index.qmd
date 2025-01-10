@@ -1,6 +1,6 @@
 ---
 title: "Your E-Portfolio"
-image: images/Bene.JPG
+image: images/Dicta.PNG
 about:
   template: trestles
   image-width: 20em
@@ -16,7 +16,7 @@ about:
       href: https://github.com/ramonmelser
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:abbenedicta70@gmail.com
 ---
 
 Hi there! I’m passionate about all things geospatial, from programming with Python and R to exploring the world of GIS and remote sensing. My journey has taken me through exciting experiences, like using RTK GPS for precise geospatial data collection and helping improve project timelines with better planning accuracy.
